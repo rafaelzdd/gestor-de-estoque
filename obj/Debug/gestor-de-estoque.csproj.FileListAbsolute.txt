@@ -1,0 +1,7 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 3 - Gestor de estoque orientado a objetos\gestor-de-estoque\gestor-de-estoque\bin\Debug\gestor-de-estoque.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 3 - Gestor de estoque orientado a objetos\gestor-de-estoque\gestor-de-estoque\bin\Debug\gestor-de-estoque.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 3 - Gestor de estoque orientado a objetos\gestor-de-estoque\gestor-de-estoque\bin\Debug\gestor-de-estoque.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 3 - Gestor de estoque orientado a objetos\gestor-de-estoque\gestor-de-estoque\obj\Debug\gestor-de-estoque.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 3 - Gestor de estoque orientado a objetos\gestor-de-estoque\gestor-de-estoque\obj\Debug\gestor-de-estoque.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 3 - Gestor de estoque orientado a objetos\gestor-de-estoque\gestor-de-estoque\obj\Debug\gestor-de-estoque.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 3 - Gestor de estoque orientado a objetos\gestor-de-estoque\gestor-de-estoque\obj\Debug\gestor-de-estoque.pdb
